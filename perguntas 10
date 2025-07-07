@@ -1,0 +1,59 @@
+criaCartao(
+    'Matemática',
+    'O que é progressão aritmética (PA)?',
+    'É uma sequência de números onde a diferença entre termos consecutivos é constante.'
+)
+
+criaCartao(
+    'Física',
+    'O que é velocidade média?',
+    'É a razão entre a distância percorrida e o tempo gasto: Vm = ΔS / ΔT.'
+)
+
+criaCartao(
+    'Química',
+    'O que é ligação iônica?',
+    'É a ligação entre íons com cargas opostas, geralmente entre metais e ametais.'
+)
+
+criaCartao(
+    'Biologia',
+    'O que é fotossíntese?',
+    'É o processo em que plantas transformam gás carbônico e água em glicose usando luz solar.'
+)
+
+criaCartao(
+    'História',
+    'O que foi o Nazismo?',
+    'Foi uma ideologia totalitária liderada por Hitler na Alemanha, marcada pelo racismo e autoritarismo.'
+)
+
+criaCartao(
+    'Geografia',
+    'O que é urbanização?',
+    'É o crescimento das cidades em população e estrutura.'
+)
+
+criaCartao(
+    'Português',
+    'O que é um verbo no infinitivo?',
+    'É o verbo em sua forma original, sem conjugação, como “amar”, “correr” ou “partir”.'
+)
+
+criaCartao(
+    'Inglês',
+    'Como se diz “por favor” em inglês?',
+    'Please.'
+)
+
+criaCartao(
+    'Filosofia',
+    'O que é o mito da caverna de Platão?',
+    'É uma alegoria que mostra como o conhecimento liberta das ilusões.'
+)
+
+criaCartao(
+    'Sociologia',
+    'O que é mobilidade social?',
+    'É a mudança de posição de um indivíduo ou grupo dentro da estrutura social.'
+)
